@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="185.12457mm"
+   height="126.21128mm"
+   viewBox="0 0 185.12457 126.21128"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-16.063468,-71.121512)">
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:0;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';white-space:pre;inline-size:20.0383;fill:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+       x="57.409794"
+       y="131.27707"
+       id="text290"
+       transform="matrix(7.8961353,0,0,4.4632493,-407.65416,-408.44776)"><tspan
+         x="57.409794"
+         y="131.27707"
+         id="tspan327"><tspan
+           style="font-weight:bold;font-stretch:condensed;-inkscape-font-specification:'Agency FB Bold Condensed'"
+           id="tspan325">W</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;stroke-width:0.307258;stroke-linecap:round;stroke-linejoin:round"
+       d="M 46.310565,71.121512 V 90.19169 H 32.914947 v 88.06305 l 30.235826,-0.0172 v 19.07805 l -47.087305,0.0172 V 71.12562 Z"
+       id="path609" />
+    <path
+       style="fill:#ffffff;stroke-width:0.307258;stroke-linecap:round;stroke-linejoin:round"
+       d="M 170.94077,71.121512 V 90.19169 h 13.3957 v 88.06305 l -30.236,-0.0172 v 19.07805 l 47.08757,0.0172 V 71.12562 Z"
+       id="path1278" />
+  </g>
+</svg>
